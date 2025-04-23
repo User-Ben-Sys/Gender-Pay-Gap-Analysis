@@ -294,7 +294,7 @@ As discussed earlier in the **Data Preparation** section, this is likely due to:
   - This may be influenced by the **concentration and diversity of industries** found in urban centres.  
   - Smaller cities often host fewer, more specialised industries due to geography or local infrastructure, which can impact gender distribution and pay structures.
 
-  📍 [View industry cluster heatmap by city ➜](./excel/industry_cluster_heatmap.xlsx)
+  📍 [View industry cluster heatmap by city ➜](https://docs.google.com/spreadsheets/d/1zn7akmmbWAvfu__FKgb94VFV5CuDqGqT/edit?usp=sharing&ouid=113672788083588590122&rtpof=true&sd=true)
 
 #### **Industry**
  - Sectors with the **highest median gender pay gap** include **Education**, **Finance**, **Mining**, and **Construction**.  
